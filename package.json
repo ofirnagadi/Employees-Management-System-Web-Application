@@ -1,16 +1,23 @@
 {
-  "name": "nodejs-ex",
-  "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
+  "name": "nodejs-ex-project",
+  "version": "1.0.0",
+  "description": ":",
   "main": "server.js",
   "dependencies": {
     "express": "^4.13.4"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
+    "url": ""
+  },
+  "author": "moshena galzkn talgarusi shon-otmazgin",
+  "license": "ISC",
+  "bugs": {
     "url": "https://github.com/ofirnagadi/Employees-Management-System-Web-Application"
   },
+  "homepage": ""
 }
